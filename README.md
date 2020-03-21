@@ -1,5 +1,3 @@
-## Welcome to "Hello World" with GitHub Actions
+## "Hello World" of GitHub Actions
 
-This course will walk you through writing your first action and using it with a workflow file. 
-
-**Ready to get started? Navigate to the first issue.**
+Tiny GitHub Actions example to trigger 'checks' on a pull request and respond with a 'Hello World' output from the container
